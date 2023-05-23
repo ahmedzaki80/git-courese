@@ -1,4 +1,4 @@
-# git-courese
+# AOC - pharmacists
 training course
 
 
